@@ -45,6 +45,8 @@ streamlit run app.py`
 
 
 
-## Dataset source: https://www.pro-football-reference.com
+## Dataset source: 
+
+https://www.pro-football-reference.com
 
 This app serves as a template for sports analytics use cases. The underlying data pipeline can be adapted for other statistical apps as well.
