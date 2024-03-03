@@ -45,7 +45,7 @@ streamlit run app.py`
 
 
 
-## Dataset source: 
+## Dataset source
 
 https://www.pro-football-reference.com
 
